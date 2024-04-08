@@ -1,0 +1,53 @@
+.menu{
+    color:white;
+    border-right:2px solid white;
+    padding-right:5px;
+}
+.titulo{
+    border-bottom:1px solid black;
+
+    padding-bottom:5px;
+    padding-top:1.5em;
+    text-align:center;
+}
+.central{
+    border:2px solid black;
+    border-top:none;
+  
+    background-color:white;
+
+}
+
+.row{
+    padding-bottom: 1rem;
+}
+.botoesADD{
+    display: inline-block;
+    width: 100%;
+}
+.final{
+    padding-top: 1rem;
+    display: flex;
+    justify-items: center;
+    justify-content: center;
+}
+.btnCad{
+    display: inline-block;
+    width: 33%;
+} 
+
+.colunaTabela{
+    width: 14%;
+    
+}
+.informacao{
+    display: none;
+
+}
+.barraSuperior{
+    position: fixed;
+   width: 100%;
+}
+.linhasTabela{
+    vertical-align: middle;
+}
